@@ -33,6 +33,10 @@ Open Fontree 是一个开源字体关系树通用数据存储库（JSON）。
 
 
 
+## 🎈 贡献
+
+Open Fontree 的字体关系数据仍然不足，欢迎大家提交 [Pull requests](https://github.com/zeoseven/openfontree/pulls)。
+
 ## ✨ 预览
 
 [ZeoSeven Fonts Tree](https://fonts.zeoseven.com/tree/)
