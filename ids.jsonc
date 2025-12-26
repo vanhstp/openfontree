@@ -4220,11 +4220,51 @@
         "alias": []
     },
     {
+        "id": 916,
+        "name": "人偶仿宋 16",
+        "alias": [
+            "RenOuFangSong 16"
+        ]
+    },
+    {
+        "id": 917,
+        "name": "ChenhaoRPFont",
+        "alias": []
+    },
+    {
+        "id": 918,
+        "name": "Alegreya Sans",
+        "alias": []
+    },
+    {
+        "id": 919,
+        "name": "Sahitya",
+        "alias": []
+    },
+    {
         "id": 92,
         "name": "得意黑",
         "alias": [
             "Smiley Sans"
         ]
+    },
+    {
+        "id": 920,
+        "name": "Alegreya",
+        "alias": []
+    },
+    {
+        "id": 921,
+        "name": "打印机明朝体",
+        "alias": [
+            "ワープロ明朝",
+            "Wāpuro Mincho"
+        ]
+    },
+    {
+        "id": 922,
+        "name": "Ctrl Poop",
+        "alias": []
     },
     {
         "id": 93,
