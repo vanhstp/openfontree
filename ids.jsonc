@@ -135,13 +135,17 @@
     },
     {
         "id": 117,
-        "name": "チョークS 粉笔体 S",
-        "alias": []
+        "name": "粉笔体 S",
+        "alias": [
+            "チョーク S"
+        ]
     },
     {
         "id": 118,
-        "name": "チョーク体 粉笔体",
-        "alias": []
+        "name": "粉笔体",
+        "alias": [
+            "チョーク体"
+        ]
     },
     {
         "id": 119,
@@ -331,8 +335,12 @@
     },
     {
         "id": 15,
-        "name": "Michimaru",
-        "alias": []
+        "name": "Mitimasu",
+        "alias": [
+            "みちます",
+            "道须手写体",
+            "Michimaru"
+        ]
     },
     {
         "id": 150,
@@ -2008,18 +2016,25 @@
     },
     {
         "id": 483,
-        "name": "HZMaruGothic 花園丸ゴシック (花园圆体)",
-        "alias": []
+        "name": "花园圆体",
+        "alias": [
+            "HZMaruGothic",
+            "花園丸ゴシック"
+        ]
     },
     {
         "id": 484,
-        "name": "Xiaohe Simplify 小合简化体 Sans",
-        "alias": []
+        "name": "合简黑体",
+        "alias": [
+            "HeSimpl Sans"
+        ]
     },
     {
         "id": 485,
-        "name": "Xiaohe Simplify 小合简化体 Serif",
-        "alias": []
+        "name": "合简宋体",
+        "alias": [
+            "HeSimpl Serif"
+        ]
     },
     {
         "id": 486,
@@ -2636,7 +2651,7 @@
     },
     {
         "id": 614,
-        "name": "簡語生活體 (简语生活体)",
+        "name": "简语生活体 (簡語生活體)",
         "alias": [
             "AbbrFesFont"
         ]
@@ -2675,7 +2690,8 @@
         "name": "女书柳叶",
         "alias": [
             "𛆁𛈬𛇋𛋒",
-            "Nüshu Serif"
+            "Nüshu Serif",
+            "Nyushu Serif"
         ]
     },
     {
@@ -3349,46 +3365,50 @@
     },
     {
         "id": 784,
-        "name": "精品点阵体7x7",
+        "name": "精品点阵体 7x7",
         "alias": [
-            "BoutiqueBitmap7x7／精品點陣體7×7"
+            "BoutiqueBitmap7x7",
+            "精品點陣體 7×7"
         ]
     },
     {
         "id": 785,
-        "name": "精品点阵体7x7 Scan-line",
+        "name": "精品点阵体 7x7 Scan-line",
         "alias": [
-            "BoutiqueBitmap7x7 Scan-line／精品點陣體7×7 Scan-line"
+            "BoutiqueBitmap7x7 Scan-line",
+            "精品點陣體 7×7 Scan-line"
         ]
     },
     {
         "id": 786,
-        "name": "精品点阵体7x7 Square Dot",
+        "name": "精品点阵体 7x7 Square Dot",
         "alias": [
-            "BoutiqueBitmap7x7 Square Dot／精品點陣體7×7 Square Dot"
+            "BoutiqueBitmap7x7 Square Dot",
+            "精品點陣體 7×7 Square Dot"
         ]
     },
     {
         "id": 787,
-        "name": "精品点阵体7x7 Circle Dot",
+        "name": "精品点阵体 7x7 Circle Dot",
         "alias": [
-            "BoutiqueBitmap7x7 Circle Dot／精品點陣體7×7 Circle Dot"
+            "BoutiqueBitmap7x7 Circle Dot",
+            "精品點陣體 7×7 Circle Dot"
         ]
     },
     {
         "id": 788,
-        "name": "流行点阵体16",
+        "name": "流行点阵体 16",
         "alias": [
             "FashionBitmap16",
-            "流行點陣體16"
+            "流行點陣體 16"
         ]
     },
     {
         "id": 789,
-        "name": "精品点阵体9x9 Blur",
+        "name": "精品点阵体 9x9 Blur",
         "alias": [
             "BoutiqueBitmap9x9 Blur",
-            "精品點陣體9×9 Blur"
+            "精品點陣體 9×9 Blur"
         ]
     },
     {
@@ -3398,34 +3418,34 @@
     },
     {
         "id": 790,
-        "name": "精品点阵体9x9 3D",
+        "name": "精品点阵体 9x9 3D",
         "alias": [
             "BoutiqueBitmap9x9 3D",
-            "精品點陣體9×9 3D"
+            "精品點陣體 9×9 3D"
         ]
     },
     {
         "id": 791,
-        "name": "精品点阵体9x9 Gradient",
+        "name": "精品点阵体 9x9 Gradient",
         "alias": [
             "BoutiqueBitmap9x9 Gradient",
-            "精品點陣體9×9 Gradient"
+            "精品點陣體 9×9 Gradient"
         ]
     },
     {
         "id": 792,
-        "name": "精品点阵体9x9 Circle Dot",
+        "name": "精品点阵体 9x9 Circle Dot",
         "alias": [
             "BoutiqueBitmap9x9 Circle Dot",
-            "精品點陣體9×9 Circle Dot"
+            "精品點陣體 9×9 Circle Dot"
         ]
     },
     {
         "id": 793,
-        "name": "精品点阵体9x9 Square Dot",
+        "name": "精品点阵体 9x9 Square Dot",
         "alias": [
             "BoutiqueBitmap9x9 Square Dot",
-            "精品點陣體9×9 Square Dot"
+            "精品點陣體 9×9 Square Dot"
         ]
     },
     {
@@ -3811,7 +3831,8 @@
         "id": 851,
         "name": "栗山巧緻",
         "alias": [
-            "KURIYAMAKOUCHIFONT"
+            "KURIYAMAKOUCHIFONT",
+            "栗山巧緻フォント"
         ]
     },
     {
@@ -4428,6 +4449,92 @@
             "清松手寫體 9",
             "JasonHandwriting 9"
         ]
+    },
+    {
+        "id": 945,
+        "name": "Montserrat",
+        "alias": []
+    },
+    {
+        "id": 946,
+        "name": "Un Batang",
+        "alias": []
+    },
+    {
+        "id": 947,
+        "name": "Un Dotum",
+        "alias": []
+    },
+    {
+        "id": 948,
+        "name": "Un Graphic",
+        "alias": []
+    },
+    {
+        "id": 949,
+        "name": "Un Gungseo",
+        "alias": []
+    },
+    {
+        "id": 950,
+        "name": "Un Pilgi",
+        "alias": []
+    },
+    {
+        "id": 951,
+        "name": "Noto Kufi Arabic",
+        "alias": []
+    },
+    {
+        "id": 952,
+        "name": "Noto Nastaliq Urdu",
+        "alias": []
+    },
+    {
+        "id": 953,
+        "name": "传趣体",
+        "alias": [
+            "Chuan Qu"
+        ]
+    },
+    {
+        "id": 954,
+        "name": "权衡度量体",
+        "alias": [
+            "QuanHengDuLiang-Jian"
+        ]
+    },
+    {
+        "id": 955,
+        "name": "Comic Mono",
+        "alias": []
+    },
+    {
+        "id": 956,
+        "name": "学参楷体",
+        "alias": [
+            "Study Kaai",
+            "學參楷體"
+        ]
+    },
+    {
+        "id": 957,
+        "name": "敬峰中山王篆",
+        "alias": [
+            "JFZSKSealScript"
+        ]
+    },
+    {
+        "id": 958,
+        "name": "袖珍像素体",
+        "alias": [
+            "XiuZhenXiangSuTi"
+        ]
+    },
+    {
+        "id": 959,
+        "name": "香萃积雪宋",
+        "alias": []
     },
     {
         "id": 96,
