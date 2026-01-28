@@ -4542,6 +4542,59 @@
         "alias": []
     },
     {
+        "id": 960,
+        "name": "k6x8",
+        "alias": []
+    },
+    {
+        "id": 961,
+        "name": "k8x12",
+        "alias": []
+    },
+    {
+        "id": 962,
+        "name": "k12x8",
+        "alias": []
+    },
+    {
+        "id": 963,
+        "name": "美咲字体",
+        "alias": [
+            "美咲フォント",
+            "Misaki"
+        ]
+    },
+    {
+        "id": 964,
+        "name": "Fairfax",
+        "alias": []
+    },
+    {
+        "id": 965,
+        "name": "Fairfax Hax",
+        "alias": []
+    },
+    {
+        "id": 966,
+        "name": "Fairfax Pona",
+        "alias": []
+    },
+    {
+        "id": 967,
+        "name": "Fairfax Pula",
+        "alias": []
+    },
+    {
+        "id": 968,
+        "name": "Fairfax Serif",
+        "alias": []
+    },
+    {
+        "id": 969,
+        "name": "Fairfax SM",
+        "alias": []
+    },
+    {
         "id": 97,
         "name": "明达明达无锋体",
         "alias": []
